@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Моё приложение</string>
+    <string name="editText">Введите название книги</string>
+    <string name="ButtonAddText">Добавить</string>
+    <string name="ButtonUpdText">Изменить</string>
+    <string name="ButtonDelText">Удалить</string>
+    <string name="ButtonView">Вывод</string>
+    <string name="ButtonSearch">Поиск</string>
+</resources>
